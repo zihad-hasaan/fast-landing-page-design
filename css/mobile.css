@@ -1,0 +1,198 @@
+@media screen and ( max-width: 767px ){
+.leyout {
+    padding: 10px;
+
+}
+.revew img {
+    max-width: 16px;
+    /* padding-bottom: 0px; */
+}
+.revew div {
+    font-size: 18px;
+}
+.heading h6 {
+    font-size: 16px;
+    margin: 6px 0;
+}
+.heading h1 {
+    padding: 0 ; 
+    font-size: 28px;
+    padding: 10px 0;
+
+}
+.heading p {
+    margin: 0 19px;
+    font-size: 18px;
+    letter-spacing: 0px;
+}
+.btn {
+    margin-top: 9px;
+    padding: 8px;
+    font-weight: 200;
+    font-size: 16px;
+    letter-spacing: 0px;
+}
+.heading h5 {
+    margin: 6px 0;
+    font-size: 14px;
+}
+.starimg img {
+    width: 129px;
+}
+.bunle h1 {
+    font-size: 25px;
+}
+.bunle p {
+    font-size: 14px;
+}
+.revewSection h1 {
+    padding-top: 15px;
+    font-size: 20px;
+}
+.revewSection p {
+    font-size: 15px;
+}
+.badge img {
+    width: 20px;
+}
+.badge i {
+    font-weight: bold;
+    font-size: 14px;
+}
+.education a {
+    font-size: 17px;
+}
+.dublebagd p {
+    font-size: 18px;
+}
+.dublebagd img {
+    width: 50px;
+}
+.dublebagd {
+    gap: 20px;
+}
+.subheading i {
+    font-size: 22px;
+    text-align: center;
+    font-weight: 900;
+    margin-bottom: 14px;
+}
+.subheading i {
+    font-size: 22px;
+    margin-bottom: 8px;
+}
+.subheading p {
+    margin-top: 4px;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+.feedback .castomar img {
+    max-width: 55px;
+}
+.textRevew .feedbackcontent {
+    padding: 15px;
+}
+.textRevew .feedbackcontent p {
+    font-size: 15px;
+    letter-spacing: 0px;
+}
+.textRevew .feedbackcontent h3 {
+    margin-bottom: 8px;
+    font-size: 18px;
+}
+.st h1 {
+    padding-top: -2px;
+    font-size: 21px;
+}
+.wt h1 {
+    font-size: 18px;
+}
+.textRevew .feedbackcontent {
+    margin-bottom: 11px;
+}
+.layout3 {
+    padding: 0 10px;
+}
+.layout2 {
+    padding: 0 3px;
+}
+.name {
+    font-size: 15px;
+    gap: 2px;
+}
+.veri img {
+    max-width: 15px;
+}
+.date {
+    font-size: 13px;
+    margin-bottom: 4px;
+}
+.star img {
+    width: 13px;
+}
+.star {
+    margin-top: 5px;
+    gap: 1px;
+    display: flex;
+}
+.prg p {
+    font-size: 12px;
+}
+.feture .fetureimg img {
+    max-width: 200px;
+}
+.feturtitle h2 {
+    margin-bottom: 9px;
+    font-size: 23px;
+}
+.feturtitle p {
+    font-size: 13px;
+}
+.primg img {
+    max-width: 50px;
+}
+.primg p {
+    font-size: 15px;
+}
+.primg {
+    gap: 10px;
+    margin-top: 3px;
+    padding: 13px 0px;
+}
+.def {
+    font-size: 15px;
+    font-weight: bold;
+}
+.wuei {
+    font-size: 26px;
+    margin: 10px 0 27px;
+}
+.table .row img {
+    height: 51px;
+}
+.table .row strong {
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+.table .row p {
+    font-size: 17px;
+}
+.table .row div {
+    padding: 4px 0;
+}
+.transfromtranslate {
+    transform: translate(10px, -17px);
+}
+.wef {
+    font-size: 22px;
+}
+.er {
+    font-size: 16px;
+}
+.er img {
+    margin-top: 30px;
+    margin-bottom: 4px;
+    width: 121px;
+}
+
+}
